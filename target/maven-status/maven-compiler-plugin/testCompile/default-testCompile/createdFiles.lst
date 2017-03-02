@@ -1,0 +1,6 @@
+com\informatixinc\calnotify\TestSuiteRunner.class
+com\informatixinc\calnotify\end_points\RegistrationTest.class
+com\informatixinc\calnotify\end_points\NotificationSettingsTest.class
+com\informatixinc\calnotify\end_points\LoginTest.class
+com\informatixinc\calnotify\utils\GeoLookupTest.class
+com\informatixinc\calnotify\end_points\GetNotificationTest.class
