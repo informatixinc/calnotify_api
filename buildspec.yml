@@ -11,4 +11,4 @@ phases:
       - mvn package -DskipTests
 artifacts:
   files:
-    - target/calnotify.jar
+    - target/calnotify.war
